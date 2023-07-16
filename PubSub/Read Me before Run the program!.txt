@@ -1,0 +1,5 @@
+1) > Go to the source 
+1) Please open CMD and Run the Main file!
+2) Use telnet or nc client to run as you want!
+
+Thank You! 
